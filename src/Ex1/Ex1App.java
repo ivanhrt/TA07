@@ -1,7 +1,8 @@
+package Ex1;
 import java.util.Hashtable;
 import javax.swing.JOptionPane;
 
-public class Ex1 {
+public class Ex1App {
 	
 	static Hashtable<String,String> alumnoNota = new Hashtable<String,String>();
 	static int totalAlumnos=0;
